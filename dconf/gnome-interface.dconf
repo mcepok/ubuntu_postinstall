@@ -1,0 +1,5 @@
+[/]
+clock-show-seconds=true
+clock-show-weekday=true
+gtk-im-module='gtk-im-context-simple'
+gtk-theme='Yaru-dark'

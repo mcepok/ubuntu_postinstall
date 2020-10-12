@@ -1,0 +1,9 @@
+[/]
+command-history=['r']
+favorite-apps=['firefox.desktop', 'thunderbird.desktop', 'keepassxc_keepassxc.desktop']
+
+[extensions/desktop-icons]
+icon-size='small'
+show-home=false
+show-mount=false
+show-trash=false

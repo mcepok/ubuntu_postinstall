@@ -1,0 +1,9 @@
+[legacy/profiles:/:b1dcc9dd-5262-4d8d-a863-c897e6d979b9]
+background-color='rgb(23,20,33)'
+custom-command='/usr/bin/fish'
+default-size-columns=108
+default-size-rows=30
+foreground-color='rgb(208,207,204)'
+login-shell=false
+use-custom-command=true
+use-theme-colors=false
