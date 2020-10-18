@@ -9,6 +9,7 @@ sudo apt update; sudo apt dist-upgrade -y; sudo apt autoremove -y
 ./setup_keepassxc.sh
 ./setup_thunderbird.sh
 ./setup_flameshot.sh
+./setup_shotwell.sh
 
 dconf load '/org/gnome/desktop/wm/keybindings/' < dconf/keybindings.dconf
 dconf load '/org/gnome/desktop/wm/preferences/' < dconf/workspaces.dconf
