@@ -16,4 +16,4 @@ content = re.sub(r'BROWSER=\$\([^\)]+\)', 'BROWSER="1"', content)
 content = re.sub(r'askBrowserSnap\w*[^\(\n]+', "", content)
 
 with open(script_name, 'w') as fp:
-    fp.write(res)
+    fp.write(content)
