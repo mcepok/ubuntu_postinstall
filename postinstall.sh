@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ./check_if_in_ubuntu_postinstall.sh || exit 1
-./check_tools || exit 1
+./check_tools.sh || exit 1
 
 sudo apt update; sudo apt dist-upgrade -y; sudo apt autoremove -y
 

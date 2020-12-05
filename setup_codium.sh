@@ -1,3 +1,3 @@
 #!/bin/bash
 
-sudo snap install codium
+sudo snap install codium --classic
