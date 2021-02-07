@@ -12,6 +12,7 @@ sudo apt update; sudo apt dist-upgrade -y; sudo apt autoremove -y
 ./setup_flameshot.sh
 ./setup_shotwell.sh
 ./setup_codium.sh
+./setup_software.sh
 
 dconf load '/org/gnome/desktop/wm/keybindings/' < dconf/keybindings.dconf
 dconf load '/org/gnome/desktop/wm/preferences/' < dconf/workspaces.dconf

@@ -1,3 +1,3 @@
 #!/bin/bash
 
-sudo apt install inkscape
+sudo apt install -y inkscape gnome-tweaks
