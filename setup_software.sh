@@ -1,3 +1,3 @@
 #!/bin/bash
 
-sudo apt install -y inkscape gnome-tweaks
+sudo apt install -y gimp inkscape gnome-tweaks vlc
